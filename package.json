@@ -1,0 +1,16 @@
+{
+  "name": "typetest",
+  "version": "1.0.0",
+  "description": "local environment for test and learn typescript and js oop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wisit_o",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
